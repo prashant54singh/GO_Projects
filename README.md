@@ -17,9 +17,11 @@ On typin ```localhost:8080/ANYTHING ELSE``` this will show
 ![KUCHBHI](https://github.com/prashant54singh/GO_Projects/blob/main/go-server/static/Screenshot%202022-08-28%20182958.jpg?raw=true)  
 ## Deployment
 
-To deploy this project install GO lang
+To deploy this project install GO lang and run this on the terminal  
 
-```bash
+locate to "src" folder in GO folder on your drive -> paste the files and run
+
+```
 -go build main.go
 ```
 ```
