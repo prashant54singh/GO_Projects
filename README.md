@@ -38,4 +38,4 @@ Then we have three options to follow up:
 /form := A site to open form  
 
 ![CLOCK](https://github.com/prashant54singh/GO_Projects/blob/main/go-server/static/Screenshot%202022-08-28%20174724.jpg?raw=true)  
-Note: Find rest of READme on the particular folders :)  
+Note: Find READme of particular project's on the particular folders :)  
